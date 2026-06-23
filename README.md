@@ -17,7 +17,7 @@ A secure authentication system built with **Laravel**, integrating standard logi
 
 1. **Clone the repository:**
    \`\`\`bash
-   git clone https://github.com/your-username/auth-otp-system.git
+   git clone https://github.com/MahmoudSharkawy/auth-otp-system.git
    cd auth-otp-system
    \`\`\`
 
